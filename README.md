@@ -1,7 +1,7 @@
 # Password-Generator
 This site is intended to generate a randomly generated password given variable criteria. A user may select the length of their password (between 8 and 128) and may select if the password contains uppercase and lowercase letters, numbers, and special characters. 
 
-![Password Generator Example](assets/img/Screenshot (13).png)
+![Password Generator Example](/assets/img/Screenshot (13).png)
 
 MIT License
 
