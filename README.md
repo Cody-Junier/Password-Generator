@@ -3,7 +3,7 @@ This site is intended to generate a randomly generated password given variable c
 
 https://cody-junier.github.io/Password-Generator/
 
-![Password Generator Example](assets/img/Screenshot (13).png)
+![Password Generator Example](assets/img/Screenshot.png)
 
 MIT License
 
